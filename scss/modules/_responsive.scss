@@ -1,0 +1,15 @@
+@media (max-width: 767px) {
+  
+    main {
+        padding: 8% 4%;
+    }
+
+    #ui-cards {
+        grid-template-columns: repeat(1, 1fr) !important;
+        .ui-card .overlay {
+            padding: 0 !important;
+        }
+    }
+
+    
+}
