@@ -9,6 +9,7 @@ body, h1, h2, h3, h4, h5, h6, p, ol, ul {
 h1 {
     font-size: 1.2em;
     font-weight: 500;
+    color: #000;
 }
 
 h3 {
@@ -24,4 +25,8 @@ p {
 .textarea {
     height: 1.4em;
     overflow: hidden;
+}
+
+.inf h1 {
+    color: #fff;
 }
