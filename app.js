@@ -33,13 +33,13 @@ $(function() {
     });
 
     $('.b01').click(function(){
-        $('.ta01').animate({ height: "13em" }, 500);
+        $('.ta01').animate({ height: "10em" }, 500);
    });
     $('.b02').click(function(){
-        $('.ta02').animate({ height: "13em" }, 500);
+        $('.ta02').animate({ height: "10em" }, 500);
    });
     $('.b03').click(function(){
-        $('.ta03').animate({ height: "13em" }, 500);
+        $('.ta03').animate({ height: "10em" }, 500);
    });
 
 });
